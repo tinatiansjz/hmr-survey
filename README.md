@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Recovering 3D Human Mesh from Monocular Images: A Survey](https://arxiv.org/abs/2203.01923)
+# Recovering 3D Human Mesh from Monocular Images: A Survey
 
 [Yating Tian](https://github.com/tinatiansjz), [Hongwen Zhang](https://hongwenzhang.github.io), [Yebin Liu](http://www.liuyebin.com), [Limin Wang](https://wanglimin.github.io)
 
