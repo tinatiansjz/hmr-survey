@@ -38,7 +38,7 @@ If our survey helps in your research, please consider citing the following paper
 
     @article{tian2022hmrsurvey,
       title = {Recovering 3D Human Mesh from Monocular Images: A Survey},
-      author = {Tian, Yating and Zhang, Hongwen and Liu, Yebin and Wang, limin},
+      author = {Tian, Yating and Zhang, Hongwen and Liu, Yebin and Wang, Limin},
       journal = {arXiv preprint arXiv:2203.01923},
       year = {2022},
     }
