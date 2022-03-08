@@ -14,6 +14,48 @@ Estimating human pose and shape from monocular images is a long-standing problem
 
 This repo will be continuously maintained. Please feel free to create issues if you have any suggestions!
 
+```
+Organization of the Survey
+├── Introduction
+├── Human Modeling
+│   ├── Geometric Primitives
+│   └── Statistical Modeling
+│       ├── Body Modeling
+│       └── Whole Body Modeling
+├── Human Mesh Recovery
+│   ├── Body Recovery
+│   │   ├── Optimization-based Paradigm
+│   │   └── Regression-based Paradigm
+│   │       ├── Output Type
+│   │       ├── Intermediate/Proxy Representation
+│   │       ├── Supervision
+│   │       └── Network Architecture
+│   └── Whole Body Recovery with Hands and Face
+│       ├── Individual Reconstruction of Hands and Face
+│       │   ├── Hands Reconstruction
+│       │   └── Face Reconstruction
+│       └── Unified Reconstruction
+│           ├── Optimization-based Paradigm
+│           └── Regression-based Paradigm
+├── Multi-person Recovery
+├── Recovery from Monocular Videos
+├── Physical Plausibility
+│   ├── Camera Model
+│   ├── Contact Constraint
+│   ├── Pose Prior and Shape Prior
+│   └── Motion Prior
+├── Datasets and Evaluation
+│   ├── The Acquisition of Mesh Annotations
+│   ├── Datasets
+│   │   ├── Rendered Datasets
+│   │   ├── Marker/Sensor-based MoCap
+│   │   ├── Marker-less Multi-view MoCap
+│   │   └── Datasets with Pseudo 3D Labels
+│   └── Evaluation
+│       ├── Metrics
+│       └── Benchmark Leaderboards
+└── Conclusion and Future Directions
+```
 
 ## Datasets
 
@@ -30,7 +72,6 @@ This repo will be continuously maintained. Please feel free to create issues if 
 ## Benchmarks
 
 <p align="center"> <img src="./assets/benchmarks.png" width="95%"> </p>
-
 
 ## Citation
 
