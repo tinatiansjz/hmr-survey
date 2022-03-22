@@ -8,7 +8,7 @@
 
 </div>
 
-**[Update]** We are collecting related papers to appear in CVPR 2022 (see Issue #1, in progress).
+:wave::wave::wave: **[Update]** We are collecting related papers to appear in CVPR 2022 (see Issue #1, in progress).
 
 ## Abstract
 
