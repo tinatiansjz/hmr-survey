@@ -2,7 +2,7 @@
 
 # Recovering 3D Human Mesh from Monocular Images: A Survey
 
-[Yating Tian](https://github.com/tinatiansjz), [Hongwen Zhang](https://hongwenzhang.github.io), [Yebin Liu](http://www.liuyebin.com), [Limin Wang](https://wanglimin.github.io)
+[Yating Tian](https://github.com/tinatiansjz) · [Hongwen Zhang](https://github.com/HongwenZhang) · [Yebin Liu](https://www.liuyebin.com) · [Limin Wang](https://wanglimin.github.io)
 
 ### [Paper](https://arxiv.org/pdf/2203.01923.pdf) | [Abstract](#abstract) | [Datasets](#datasets) | [Chronological Overview](#overview) | [Benchmarks](#benchmarks)
 
